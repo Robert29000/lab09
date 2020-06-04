@@ -4,6 +4,7 @@
 
 Данная лабораторная работа посвещена изучению процесса создания артефактов на примере **Github Release**
 
+
 ```sh
 $ open https://help.github.com/articles/creating-releases/
 ```
